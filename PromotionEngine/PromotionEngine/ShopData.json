@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "skuID": "A",
+      "Price": 500.0
+    },
+    {
+      "skuID": "B",
+      "Price": 200.0
+    },
+    {
+      "skuID": "C",
+      "Price": 300.0
+    },
+    {
+      "skuID": "D",
+      "Price": 400.0
+    },
+    {
+      "skuID": "E",
+      "Price": 50.0
+    },
+    {
+      "skuID": "F",
+      "Price": 20.0
+    }
+  ]
+}
